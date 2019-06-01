@@ -1,0 +1,12 @@
+name: BOCSinterest
+main: me.drunkenmeows.bocsinterest.BOCSinterest
+version: '0.01'
+author: drunkenmeows
+website: []
+softdepend: [Vault, Essentials]
+description: >
+             Earn interest on money you already have.
+Permissions:
+    bocsi.admin:
+        description: Are they an admin.
+        default: OP

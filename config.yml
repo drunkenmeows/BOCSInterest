@@ -1,0 +1,9 @@
+#payment interval in seconds
+#10 mins = 600
+#30 mins = 1800
+#1 hour = 3600
+Interval: 3600
+
+#% interest
+#0.1 = 10%, 0.01 = 1%
+Interest: 0.005
